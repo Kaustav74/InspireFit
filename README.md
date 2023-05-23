@@ -1,2 +1,2 @@
-# InspireFit
-HackMait 4.0
+For HackMait 4.0
+If you want to see the Login and the Registration pages, then please downlad the .zip file from github and then open the Login and the Registration pages and if you want to see the Home page, then please extract the contents of the .zip file and then click on the Home folder, click on the Home page and then you can view the Home page. For now it is only a basic versio of the web app. We will modify and add all the information of the users to the database. We will create the workout page also by today night. And when we arre done, we will upload the full coding on to the Github repository. For now we are only adding the Home page, The forgot password page and the login page.
